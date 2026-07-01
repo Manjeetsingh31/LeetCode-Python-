@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0078-subsets) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0027-remove-element) |
 ## String
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
