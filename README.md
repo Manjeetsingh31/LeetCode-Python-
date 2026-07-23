@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1331-rank-transform-of-an-array) |
 ## Recursion
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
