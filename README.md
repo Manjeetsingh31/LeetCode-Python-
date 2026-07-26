@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3536-maximum-product-of-two-digits) |
