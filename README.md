@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0643-maximum-average-subarray-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1331-rank-transform-of-an-array) |
 ## Recursion
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1331-rank-transform-of-an-array) |
