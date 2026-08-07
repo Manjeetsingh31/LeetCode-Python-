@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0168-excel-sheet-column-title) |
+| [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3345-smallest-divisible-digit-product-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
