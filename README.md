@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
