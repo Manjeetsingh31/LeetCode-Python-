@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0168-excel-sheet-column-title) |
 | [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
