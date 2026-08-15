@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Manjeetsingh31/LeetCode-Python-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
